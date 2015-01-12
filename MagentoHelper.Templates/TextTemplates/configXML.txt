@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<config>
+    <global>
+        <modules>
+                <{0}_{1}>
+                        <version>0.1.0</version>
+                </{0}_{1}>
+        </modules>
+    <blocks>
+            <{1}>
+                <rewrite>
+         <{1}>{0}_{1}_Block_{1}</{1}>
+        </rewrite>
+            </{1}>
+     </blocks>
+        </global>
+       <frontend>
+                <routers>
+                        <{1}>
+                                <use>standard</use>
+                                <args>
+                                      <module>{0}_{1}</module>
+                                      <frontName>{1}</frontName>
+                                </args>
+                        </{1}>
+                </routers>
+        <layout>
+            <updates>
+                <{1}>
+                      <file>{1}.xml</file>
+                </{1}>
+            </updates>
+            </layout>
+        </frontend>
+</config>

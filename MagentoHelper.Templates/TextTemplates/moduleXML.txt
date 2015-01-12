@@ -1,0 +1,9 @@
+﻿<?xml version="1.0"?>
+<config>
+         <modules>
+                <BMJ_{{moduleName}}>
+                        <active>true</active>
+                        <codePool>local</codePool>
+                </BMJ_{{moduleName}}>
+         </modules>
+</config>

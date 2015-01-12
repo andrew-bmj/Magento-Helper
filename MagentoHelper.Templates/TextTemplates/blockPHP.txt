@@ -1,0 +1,4 @@
+﻿class BMJ_{{moduleName}}_Block_{{moduleName}} extends Mage_Core_Block_Template
+{
+  // This file needs to be named the same as the moduleName
+}

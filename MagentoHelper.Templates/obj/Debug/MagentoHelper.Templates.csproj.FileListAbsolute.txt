@@ -1,0 +1,5 @@
+C:\Development\BMJDEV\MagentoHelper\MagentoHelper.Templates\bin\Debug\MagentoHelper.Templates.dll
+C:\Development\BMJDEV\MagentoHelper\MagentoHelper.Templates\bin\Debug\MagentoHelper.Templates.pdb
+C:\Development\BMJDEV\MagentoHelper\MagentoHelper.Templates\obj\Debug\MagentoHelper.Templates.csprojResolveAssemblyReference.cache
+C:\Development\BMJDEV\MagentoHelper\MagentoHelper.Templates\obj\Debug\MagentoHelper.Templates.dll
+C:\Development\BMJDEV\MagentoHelper\MagentoHelper.Templates\obj\Debug\MagentoHelper.Templates.pdb

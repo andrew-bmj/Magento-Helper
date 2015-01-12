@@ -1,0 +1,11 @@
+﻿<?xml version="1.0"?>
+    <layout version="0.1.0">
+        <{1}_index_index>
+            <reference name="root">
+                <action method="setTemplate"><template>page/1column.phtml</template></action>
+            </reference>
+            <reference name="content">
+                <block type="{1}/{1}" name="{1}" template="{1}/{1}.phtml"/>
+            </reference>
+        </{1}_index_index>
+    </layout>
