@@ -1,9 +1,0 @@
-C:\Development\BMJDEV\MagentoHelper\MagentoHelper\bin\Debug\MagentoHelper.exe.config
-C:\Development\BMJDEV\MagentoHelper\MagentoHelper\bin\Debug\MagentoHelper.exe
-C:\Development\BMJDEV\MagentoHelper\MagentoHelper\bin\Debug\MagentoHelper.pdb
-C:\Development\BMJDEV\MagentoHelper\MagentoHelper\obj\Debug\MagentoHelper.csprojResolveAssemblyReference.cache
-C:\Development\BMJDEV\MagentoHelper\MagentoHelper\obj\Debug\MagentoHelper.Form1.resources
-C:\Development\BMJDEV\MagentoHelper\MagentoHelper\obj\Debug\MagentoHelper.Properties.Resources.resources
-C:\Development\BMJDEV\MagentoHelper\MagentoHelper\obj\Debug\MagentoHelper.csproj.GenerateResource.Cache
-C:\Development\BMJDEV\MagentoHelper\MagentoHelper\obj\Debug\MagentoHelper.exe
-C:\Development\BMJDEV\MagentoHelper\MagentoHelper\obj\Debug\MagentoHelper.pdb
